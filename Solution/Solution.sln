@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{FE174E76-CD95-4A64-B4C1-89D5A3D9100D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbEventing", "MongoDbEventing\MongoDbEventing.csproj", "{0921175D-1A0D-453E-8F99-AEE4DEA95362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E353A1A3-0DB5-4B48-9FFA-D9AC5EA4FD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE174E76-CD95-4A64-B4C1-89D5A3D9100D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE174E76-CD95-4A64-B4C1-89D5A3D9100D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE174E76-CD95-4A64-B4C1-89D5A3D9100D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE174E76-CD95-4A64-B4C1-89D5A3D9100D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0921175D-1A0D-453E-8F99-AEE4DEA95362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0921175D-1A0D-453E-8F99-AEE4DEA95362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0921175D-1A0D-453E-8F99-AEE4DEA95362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0921175D-1A0D-453E-8F99-AEE4DEA95362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E353A1A3-0DB5-4B48-9FFA-D9AC5EA4FD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E353A1A3-0DB5-4B48-9FFA-D9AC5EA4FD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E353A1A3-0DB5-4B48-9FFA-D9AC5EA4FD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E353A1A3-0DB5-4B48-9FFA-D9AC5EA4FD65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
